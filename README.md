@@ -1,5 +1,5 @@
 # 🏏 Cricket Data Insights: Exploratory Data Analysis
-Welcome to my EDA project on cricket match statistics! This repository isn't just about cleaning rows and columns; it’s about uncovering the stories behind the numbers—from match-winning trends to individual player masterclasses.
+Welcome to my EDA project on cricket match statistics! This repository isn't just about cleaning rows and columns; it’s about uncovering the stories behind the numbers from match-winning trends to individual player masterclasses.
 
 Whether you're a data enthusiast or a cricket nerd, this notebook walks through the full pipeline of turning raw sports data into actionable insights.
 
